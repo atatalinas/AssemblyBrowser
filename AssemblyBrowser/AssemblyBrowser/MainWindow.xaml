@@ -5,24 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AssemblyBrowser"
         mc:Ignorable="d"
-        Title="Assembly Browser" Height="450" Width="800" MinHeight="300" MinWidth="800" Background="#9CB6CB">
+        Title="Assembly Browser" Height="500" Width="800" MinHeight="350" MinWidth="800" Background="#9CB6CB" WindowStartupLocation="CenterScreen">
     <Grid Background="AntiqueWhite">
-
-
         <StackPanel>
-            <Controls:Tile Content="Open assembly" Foreground="White" FontSize="16px" BorderBrush="AntiqueWhite" HorizontalTitleAlignment="Right"
-               Margin="329,4,329.6,395" 
-               Background="Teal" Height="23" Width="120" Command="{Binding OpenCommand}" >
-            </Controls:Tile>
+            <Controls:Tile Content="Open assembly" Foreground="White" FontSize="16px" BorderBrush="AntiqueWhite" 
+               Margin="330,4,331.6,395" FontWeight="DemiBold"
+               Background="Teal" Height="27" Width="130" Command="{Binding RelayCommand}" />
         </StackPanel>
-
-
-
-
-        <TreeView x:Name="AssemblyTreeView" Margin="26,30,26,23">
+        <TreeView x:Name="AssemblyTreeView" Margin="26,39,26,24">
             <TreeView.ItemTemplate>
                 <HierarchicalDataTemplate ItemsSource="{Binding Path=Nodes}">
-                    <TextBlock Text="{Binding Content}" />
+                    <TextBlock Text="{Binding Content}" FontFamily="Verdana" FontSize="13px" />
                 </HierarchicalDataTemplate>
             </TreeView.ItemTemplate>
         </TreeView>
