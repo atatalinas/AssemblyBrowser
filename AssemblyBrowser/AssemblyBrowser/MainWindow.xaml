@@ -5,8 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:AssemblyBrowser"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="AssemblyBrowser" Height="450" Width="800">
     <Grid>
-        
+        <Menu>
+            <MenuItem Header="Open assembly" Command="{Binding OpenCommand}"/>
+        </Menu>
+        <TreeView x:Name="AssemblyTreeView" Grid.ColumnSpan="3" Margin="0,25,-0.4,0">
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Path=Nodes}">
+                    <TextBlock Text="{Binding Content}" />
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
     </Grid>
 </Window>

@@ -1,0 +1,15 @@
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.exe.config
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.exe
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\MainWindow.g.cs
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\App.g.cs
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser_MarkupCompile.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser_MarkupCompile.lref
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\MainWindow.baml
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.g.resources
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.Properties.Resources.resources
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.exe
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
