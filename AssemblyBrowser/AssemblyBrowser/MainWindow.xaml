@@ -8,7 +8,7 @@
         Title="AssemblyBrowser" Height="450" Width="800">
     <Grid>
         <Menu>
-            <MenuItem Header="Open assembly" Command="{Binding OpenCommand}"/>
+            <MenuItem Header="Choose file" Command="{Binding RelayCommand}"/>
         </Menu>
         <TreeView x:Name="AssemblyTreeView" Grid.ColumnSpan="3" Margin="0,25,-0.4,0">
             <TreeView.ItemTemplate>

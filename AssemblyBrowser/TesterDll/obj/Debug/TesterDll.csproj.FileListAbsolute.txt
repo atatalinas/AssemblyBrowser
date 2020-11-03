@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\bin\Debug\TesterDll.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\bin\Debug\TesterDll.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\obj\Debug\TesterDll.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\obj\Debug\TesterDll.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\obj\Debug\TesterDll.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\TesterDll\obj\Debug\TesterDll.pdb

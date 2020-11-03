@@ -8,6 +8,6 @@ namespace AssemblyGetInfoLib
 {
     public interface IGetInfo
     {
-        Node GetFileInfo(string fileName);
+        Node GetInfoFromFile(string fileName);
     }
 }

@@ -41,7 +41,7 @@ namespace AssemblyBrowser
             if (dialog.ShowDialog() == true)
             {
                 root.Clear();
-                root.Add(assemblyInfoGetter.GetFileInfo(dialog.FileName));
+                root.Add(assemblyInfoGetter.GetInfoFromFile(dialog.FileName));
                 OnPropertyChanged();
             }
         }

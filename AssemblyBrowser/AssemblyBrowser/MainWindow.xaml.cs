@@ -1,5 +1,7 @@
-﻿using System;
+﻿using AssemblyGetInfoLib;
+using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,6 +25,9 @@ namespace AssemblyBrowser
         public MainWindow()
         {
             InitializeComponent();
+            var root = new ObservableCollection<Node>();
+            AssemblyTreeView.ItemsSource = root;
+            DataContext = new AssemblyReader(root, new AssemblyGetInfo());
         }
     }
 }
