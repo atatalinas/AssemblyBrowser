@@ -16,3 +16,12 @@ C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBr
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyGetInfoLib.dll
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyGetInfoLib.pdb
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CopyComplete
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\ControlzEx.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\MahApps.Metro.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\ControlzEx.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\ControlzEx.xml
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\MahApps.Metro.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\MahApps.Metro.xml
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\Microsoft.Xaml.Behaviors.xml
