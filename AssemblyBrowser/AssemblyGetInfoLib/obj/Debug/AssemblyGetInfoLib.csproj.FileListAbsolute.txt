@@ -1,0 +1,6 @@
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\bin\Debug\AssemblyGetInfoLib.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\bin\Debug\AssemblyGetInfoLib.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\obj\Debug\AssemblyGetInfoLib.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\obj\Debug\AssemblyGetInfoLib.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\obj\Debug\AssemblyGetInfoLib.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyGetInfoLib\obj\Debug\AssemblyGetInfoLib.pdb

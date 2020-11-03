@@ -13,3 +13,6 @@ C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBr
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.exe
 C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyGetInfoLib.dll
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyGetInfoLib.pdb
+C:\Users\angel\OneDrive\Рабочий стол\BSUIR\5 сем\СПП\AssemblyBrowser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CopyComplete
