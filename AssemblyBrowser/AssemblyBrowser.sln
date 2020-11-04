@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyGetInfoLib", "Assem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterDll", "TesterDll\TesterDll.csproj", "{2A646457-ECC2-4C35-8674-2B0A8C5D35C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssemblyGetInfoTest", "AssemblyGetInfoTest\AssemblyGetInfoTest.csproj", "{25A9C739-513E-4E59-B9CE-F1B89A4EDEC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2A646457-ECC2-4C35-8674-2B0A8C5D35C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A646457-ECC2-4C35-8674-2B0A8C5D35C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A646457-ECC2-4C35-8674-2B0A8C5D35C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A9C739-513E-4E59-B9CE-F1B89A4EDEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A9C739-513E-4E59-B9CE-F1B89A4EDEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A9C739-513E-4E59-B9CE-F1B89A4EDEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A9C739-513E-4E59-B9CE-F1B89A4EDEC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
